@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2025-10-07T12:03:15.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="qRjW1ZJg4jF7h9x3sC6b" version="24.4.0" type="device">
+  <diagram name="Page-1" id="aL9f8G-H7j4d5K9l1mP0">
+    <mxGraphModel dx="2008" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sabsa-title" value="SABSA Security Architecture Matrix for a Financial Institution" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="header-corner" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="header-what" value="WHAT&lt;br&gt;&lt;i&gt;Assets&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="header-why" value="WHY&lt;br&gt;&lt;i&gt;Motivation&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="header-how" value="HOW&lt;br&gt;&lt;i&gt;Process&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="header-who" value="WHO&lt;br&gt;&lt;i&gt;People&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="header-where" value="WHERE&lt;br&gt;&lt;i&gt;Location&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="header-when" value="WHEN&lt;br&gt;&lt;i&gt;Time&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="80" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="row-contextual" value="Contextual&lt;br&gt;&lt;i&gt;Business View&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-cxt-what" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Customer PII&lt;/li&gt;&lt;li&gt;Financial Accounts &amp;amp; Transactions&lt;/li&gt;&lt;li&gt;Brand Reputation&lt;/li&gt;&lt;li&gt;Regulatory Compliance Status&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-cxt-why" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Goal:&lt;/b&gt; Provide secure, convenient digital banking.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Risk:&lt;/b&gt; Prevent fraud, data breaches, and service disruption.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Driver:&lt;/b&gt; Customer trust, regulatory mandates (PCI-DSS, GDPR).&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-cxt-how" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Customer Onboarding&lt;/li&gt;&lt;li&gt;Fund Transfers&lt;/li&gt;&lt;li&gt;Account Management&lt;/li&gt;&lt;li&gt;Regulatory Reporting&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-cxt-who" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Retail Customers&lt;/li&gt;&lt;li&gt;Corporate Clients&lt;/li&gt;&lt;li&gt;Bank Employees&lt;/li&gt;&lt;li&gt;Regulators/Auditors&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="840" y="140" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-cxt-where" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Online Banking Portal&lt;/li&gt;&lt;li&gt;Mobile Banking App&lt;/li&gt;&lt;li&gt;Physical Branches / ATMs&lt;/li&gt;&lt;li&gt;Third-party Partner Systems&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="140" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-cxt-when" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;24/7/365 Availability&lt;/li&gt;&lt;li&gt;Real-time transaction processing&lt;/li&gt;&lt;li&gt;End-of-day reconciliation&lt;/li&gt;&lt;li&gt;Quarterly reporting cycles&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="140" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="row-conceptual" value="Conceptual&lt;br&gt;&lt;i&gt;Architect&#39;s View&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-con-what" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Digital Identities&lt;/li&gt;&lt;li&gt;Data-in-Transit&lt;/li&gt;&lt;li&gt;Data-at-Rest&lt;/li&gt;&lt;li&gt;Application Interfaces (APIs)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-con-why" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Principles:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Zero Trust Architecture&lt;/li&gt;&lt;li&gt;Defense in Depth&lt;/li&gt;&lt;li&gt;Principle of Least Privilege&lt;/li&gt;&lt;li&gt;Secure by Design&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-con-how" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Strategies:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Risk-based authentication&lt;/li&gt;&lt;li&gt;End-to-end encryption&lt;/li&gt;&lt;li&gt;Continuous monitoring &amp;amp; response&lt;/li&gt;&lt;li&gt;Threat intelligence integration&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-con-who" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="840" y="290" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-con-where" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="290" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-con-when" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="290" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="row-logical" value="Logical&lt;br&gt;&lt;i&gt;Designer&#39;s View&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-log-what" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Customer Credentials&lt;/li&gt;&lt;li&gt;Encrypted Data Payloads&lt;/li&gt;&lt;li&gt;Security Audit Logs&lt;/li&gt;&lt;li&gt;Digital Certificates&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-log-why" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Policies:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;MFA required for high-value transactions.&lt;/li&gt;&lt;li&gt;All sensitive data must be encrypted.&lt;/li&gt;&lt;li&gt;Access must be based on role (RBAC).&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-log-how" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Security Services:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Identity &amp;amp; Access Mgmt (IAM)&lt;/li&gt;&lt;li&gt;Cryptography Service&lt;/li&gt;&lt;li&gt;Logging &amp;amp; Monitoring Service&lt;/li&gt;&lt;li&gt;Data Loss Prevention (DLP) Service&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-log-who" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Logical Roles:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Customer&lt;/li&gt;&lt;li&gt;Administrator&lt;/li&gt;&lt;li&gt;Auditor&lt;/li&gt;&lt;li&gt;Service Account&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="840" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-log-where" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-log-when" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="440" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="row-physical" value="Physical&lt;br&gt;&lt;i&gt;Builder&#39;s View&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="590" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-phy-what" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Mobile App (iOS/Android)&lt;/li&gt;&lt;li&gt;Web Application Firewall (WAF)&lt;/li&gt;&lt;li&gt;Hardware Security Module (HSM)&lt;/li&gt;&lt;li&gt;SIEM Platform (e.g., Splunk)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="240" y="590" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-phy-why" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Standards:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;TLS 1.3 Encryption&lt;/li&gt;&lt;li&gt;AES-256 for data&lt;/li&gt;&lt;li&gt;OWASP Top 10 mitigation&lt;/li&gt;&lt;li&gt;FIPS 140-2 for crypto modules&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-phy-how" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Technology:&lt;/b&gt;&lt;/li&gt;&lt;li&gt;OAuth2 / OIDC (Okta, Keycloak)&lt;/li&gt;&lt;li&gt;PKI, Digital Signatures&lt;/li&gt;&lt;li&gt;Next-Gen Firewall (Palo Alto)&lt;/li&gt;&lt;li&gt;Endpoint Detection &amp;amp; Response (EDR)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="640" y="590" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-phy-who" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;Active Directory User Groups&lt;/li&gt;&lt;li&gt;Application Service Accounts&lt;/li&gt;&lt;li&gt;Database User Accounts&lt;/li&gt;&lt;li&gt;Federated partner identities&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="840" y="590" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-phy-where" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;AWS / Azure Cloud&lt;/li&gt;&lt;li&gt;On-Premise Data Center&lt;/li&gt;&lt;li&gt;Customer mobile devices&lt;/li&gt;&lt;li&gt;DMZ / Secure Network Zones&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="590" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cell-phy-when" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=5;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="590" width="200" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
